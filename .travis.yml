@@ -1,0 +1,5 @@
+language: ruby
+notifications:
+  email: false
+script:
+ - ruby test/test_types.rb
